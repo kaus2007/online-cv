@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kaushik Ghosh
-    tagline: Author of various papers at many internationally published journals including top Business Schools of the globe || Peer Reviewer || Public Policy Analyst and Researcher || Finance Enthusiast || Subject Expert of Economics, Mathematics and Finance on various online platforms || Mentor for Civil Services preparation || Gazetted Officer, Ministry of Defence, Govt of India 
+    tagline: Author || Public Policy Analyst and Researcher || Subject Expert of Economics, Mathematics and Finance on various online platforms || Gazetted Officer, Ministry of Defence, Govt of India 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,12 +45,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Kaushik has more than eight years experience in Defence Production Sector.
+        He has worked with one of the leading arms and defence equipment manufacturers of the globe.
+        He has worked in cross-functional areas of Governance, IT, Finance, Procurement and HR.
+        Currently his area of work is Public Policy and Public Finance. He has several Economics, Policy and Finance related papers published on international journals.
+        Officer at DDP, Ministry of Defence, Govt. of India. He is a Certified Peer Reviewer and also a subject expert of Economics, Mathematics and Finance on various online platforms. 
 education:
     - degree: Executive MBA
       university: IIT Kharagpur, India
