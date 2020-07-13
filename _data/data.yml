@@ -7,29 +7,26 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Mayukh Mukhopadhyay
-    tagline: Big Data Janitor| Blockchain Author
+    name: Kaushik Ghosh
+    tagline: Author of various papers at many internationally published journals including top Business Schools of the globe || Peer Reviewer || Public Policy Analyst and Researcher || Finance Enthusiast || Subject Expert of Economics, Mathematics and Finance on various online platforms || Mentor for Civil Services preparation || Gazetted Officer, Ministry of Defence, Govt of India 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mayukhmukhopadhyay@iitkgp.ac.in
-    phone: +91 8981792411
-    website: mayukhpsm.github.io/online-cv #do not add http://
-    linkedin: mayukhpsm
-    github: mayukhdifferent
+    email: kaushikghosh@iitkgp.ac.in
+    phone: +91 9874066080
+    website: kaus2007.github.io/online-cv #do not add http://
+    linkedin: kaushik-ghosh-bb3a2430
+    github: kaus2007
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@mayukhdifferent'
+    twitter: '@stkausualties'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Professional
-
-      - idiom: Hindi
         level: Professional
 
       - idiom: Bengali
@@ -57,7 +54,7 @@ career-profile:
 education:
     - degree: Executive MBA
       university: IIT Kharagpur, India
-      time: 2011 - 2012
+      time: 2018 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +63,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: MEngg Software Engineering
-      university: Jadavpur University
-      time: 2007 - 2011
+    - degree: Bachelor of Engineering
+      university: School of IT, West Bengal University of Technology
+      time: 2005 - 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,9 +75,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Chargeman/IT
+      time: 2011 - 2017
+      company: Ordnance Factory Board, Ministry of Defence, Govt of India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -93,9 +90,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Junior Works Manager
+      time: 2017 - till date
+      company: Ordnance Factory Board, Ministry of Defence, Govt of India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
