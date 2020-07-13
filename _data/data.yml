@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Kaushik Ghosh
     tagline: Author || Public Policy Analyst and Researcher || Subject Expert of Economics, Mathematics and Finance on various online platforms || Gazetted Officer, Ministry of Defence, Govt of India 
-    avatar: Kaushik.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Kaushik1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kaushikghosh@iitkgp.ac.in
@@ -94,17 +94,11 @@ experiences:
         3. Managing/conducting - sessions, seminars and training on information/cyber security and other IT training
         4. Managing/conducting audit/investigation - on incidents pertaining to information/cyber security breach
           
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Subject Expert (Chegg.com)
+      time: 2020 - till date
+      company: chegg.com
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        For Economics, Mathematics and Finance
 projects:
     title: Projects
     intro: >
@@ -158,23 +152,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python 
         level: 60%
 
+      - name: Javascript & jQuery
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 85%
+
+      - name: MS Office
+        level: 90%
+
+      - name: Sketch & Photoshop
+        level: 80%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+<!--    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> -->
