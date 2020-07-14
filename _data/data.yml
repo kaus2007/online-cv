@@ -106,10 +106,14 @@ publications:
     intro: |
       Kaushik's portfolio of publications is very diversified, starting from papers on Economics, Business Law to Cyber Security. 
       Many of his papers have been published on international journals, including journals published by highly reputed international Business Schools. 
-      Kaushik's author page link below: 
+      
         
-      - link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4021364" 
     papers:
+      - title: Kaushik's author page link below: 
+        link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4021364" 
+        authors: 
+        conference: 
+        
       - title: "Review of Company Law on Merger and Acquisition in India Using SCP Paradigm"
         link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545442
         authors: Kaushik Ghosh, Mayukh Mukhopadhyay
