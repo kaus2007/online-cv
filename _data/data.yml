@@ -34,14 +34,31 @@ sidebar:
 
     interests:
       - item: Technical Writing
-        link:
+        link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4021364"
 
       - item: Independent Research
-        link:
+        link: "https://www.researchgate.net/profile/Kaushik_Ghosh18"
 
       - item: Technical Review
-        link:
+        link: "https://publons.com/researcher/3668343/kaushik-ghosh/"
+        
+    certificates:
+      - item: Public Financial Management offered by IMF
+        link: "https://courses.edx.org/certificates/48bc66cd113a432db60fc2931bb12038"
 
+      - item: Python and Statistics for Financial Analysis
+        link: "https://www.coursera.org/account/accomplishments/certificate/A5AXU8BJ4AG4"
+
+      - item: Fundamentals of Project Planning and Management
+        link: "https://www.coursera.org/account/accomplishments/certificate/CNAYUGF54F44"
+        
+      - item: Master Public Policy Analysis: Advanced
+        link: "https://www.udemy.com/certificate/UC-514fbf80-0251-4656-b3e3-4474d48c214a/"
+        
+      - item: Ethical Hacking: Penetration Testing
+        link: "http://www.linkedin.com/learning/ethical-hacking-penetration-testing?trk=lil_details_certification"
+        
+        
 career-profile:
     title: Career Profile
     summary: |
@@ -109,7 +126,7 @@ publications:
       
         
     papers:
-      - title: "Kaushik's author page link below:" 
+      - title: "Kaushik's author page link" 
         link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4021364" 
         authors: 
         conference: 
