@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Kaushik Ghosh
     tagline: Author || Public Policy Analyst and Researcher || Subject Expert of Economics, Mathematics and Finance on various online platforms || Gazetted Officer, Ministry of Defence, Govt of India 
-    avatar: Kaushik1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Kaushik2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kaushikghosh@iitkgp.ac.in
@@ -91,32 +91,15 @@ experiences:
       company: chegg.com
       details: |
         For Economics, Mathematics and Finance
+        
 projects:
-    title: Projects
+    title: 
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 
+        link: 
+        tagline: 
 
 publications:
     title: Publications
@@ -128,17 +111,17 @@ publications:
       - title: "Review of Company Law on Merger and Acquisition in India Using SCP Paradigm"
         link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545442
         authors: Kaushik Ghosh, Mayukh Mukhopadhyay
-        conference: "#"
+        conference: 
 
       - title: "A Review Paper on India’s Macroeconomic Focus on Export Versus Investment Led Growth Strategies – Issues and Implications"
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3567181"
         authors: Kaushik Ghosh, Abhisita Chakraborty, Arnab Sinha, Mayukh Mukhopadhyay
-        conference: "#"
+        conference: 
 
       - title: Identification and Quantification of Cybersecurity Risk by Likelihood-Severity, Incident-Response and Organizational Asset Valuation Framework
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630075"
         authors: Kaushik Ghosh
-        conference: "#"
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
