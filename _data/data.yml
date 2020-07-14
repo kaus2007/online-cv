@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Kaushik Ghosh
     tagline: Author || Public Policy Analyst and Researcher || Subject Expert of Economics, Mathematics and Finance on various online platforms || Gazetted Officer, Ministry of Defence, Govt of India 
-    avatar: Kaushik.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Kaushik1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kaushikghosh@iitkgp.ac.in
@@ -68,7 +68,7 @@ experiences:
       time: 2011 - 2017
       company: Ordnance Factory Board, Ministry of Defence, Govt of India
       details: |
-        Job profile
+        Job particulars
         1. e-procurement Administration
         2. Govt. of India's Tender portal Administration
         3. Central Public Procurement Portal Administration
@@ -80,7 +80,7 @@ experiences:
       time: 2017 - till date
       company: Ordnance Factory Board, Ministry of Defence, Govt of India
       details: |
-        Job profile
+        Job particulars
         1. Managing/conducting - Information/cyber security audit as per extant rules and guidelines
         2. Formulating policies, frameworks and Standard Operating Procedures (SOPs) on information/cyber security in the organisation
         3. Managing/conducting - sessions, seminars and training on information/cyber security and other IT training
