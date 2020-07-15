@@ -72,7 +72,7 @@ education:
       university: Indian Institute of Technology Kharagpur (IITKGP), India
       time: 2018 - 2021
       details: |
-        Executive MBA in Finance and Marketing (major)
+        Executive MBA (General) with Finance and Marketing major
          - Finalist in Mulyankan, the flagship event of the Purvodaya, 2019 (Business festival of VGSoM, IIT Kharagpur).
     - degree: Bachelor of Engineering
       university: School of IT, West Bengal University of Technology
@@ -113,14 +113,14 @@ projects:
     title: Projects
     intro: > 
       Project assigned to Kaushik at Indian Ordnance Factories ~
-      2012 - Commissioning of e-procurement at Indian Ordnance Factories. Commissioning includes User Acceptance Testing and Commissioning.  
-      2015 - Cyber Security Mock Drill conducted by CERT-In. 
-      
-      Kaushik played a pivotal role in the above projects and successfully completed his part. Both projects witnessed grand success.
+          
     assignments:  
-      - title: 
+      - title:       
+            2012 - Commissioning of e-procurement at Indian Ordnance Factories. Commissioning includes User Acceptance Testing and Commissioning.  
+            2015 - Indian Cyber Crisis Exercise/Cyber Security Mock Drill conducted by CERT-In. 
         link: 
-        tagline: 
+        tagline: Kaushik played a pivotal role in the above projects and successfully completed his part. Both projects witnessed grand success. 
+        e-procurement commissioned maintaining the timeline. Cyber Security Mock Drill culminated in Indian Ordnance Factories top performence in the same.
 
 publications:
     title: Publications
