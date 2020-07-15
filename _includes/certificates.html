@@ -1,22 +1,37 @@
-{% assign certificates = site.data.data.sidebar.certificates %}
-{% if certificates %}
-<div class="certificates-container container-block">
+{% assign languages = site.data.data.sidebar.languages %}
+{% if languages %}
 
-  <h2 class="container-block-title">
-    Certificates
-  </h2>
+<div class="languages-container container-block">
 
-  <ul class="list-unstyled certificates-list">
-    {% for certificates in certificates %}
 
-      {% if certificates.link %}
-      <li><a href="{{ certificates.link }}">{{ certificates.item }}</a></li>
-      {% else %}
-      <li>{{ certificates.item }}</li>
-      {% endif %}
 
-    {% endfor %}
-  </ul>
+<h2 class="container-block-title">
 
-</div><!--//certificates-->
+Certificates
+
+</h2>
+
+
+
+<ul class="list-unstyled interests-list">
+
+{%for language in languages %}
+
+<li>
+
+{{ language.idiom }}
+
+<span class="lang-desc">({{ language.level }})</span>
+
+</li>
+
+{% endfor %}
+
+</ul>
+
+
+
+</div><!--//interests-->
+
 {% endif %}
+
