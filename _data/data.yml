@@ -113,10 +113,9 @@ projects:
     title: Projects
     intro: > 
       Project assigned to Kaushik at Indian Ordnance Factories ~
-          
-    assignments:  
-      - title:       
-            <br> 2012 - Commissioning of e-procurement at Indian Ordnance Factories. Commissioning includes User Acceptance Testing and Commissioning. <br>
+    
+    assignments:
+      - title: 2012 - Commissioning of e-procurement at Indian Ordnance Factories. Commissioning includes User Acceptance Testing and Commissioning. <br>
             2015 - Indian Cyber Crisis Exercise/Cyber Security Mock Drill conducted by CERT-In. <br>
         link: 
         tagline: Kaushik played a pivotal role in the above projects and successfully completed his part. Both projects witnessed grand success. e-procurement commissioned maintaining the timeline. Cyber Security Mock Drill culminated in Indian Ordnance Factories top performence in the same.
@@ -152,24 +151,29 @@ publications:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python 
-        level: 60%
-
-      - name: Javascript & jQuery
-        level: 80%
-
-      - name: HTML5 & CSS
-        level: 85%
-
+    toolset:      
+            
       - name: MS Office
         level: 90%
-
-      - name: Sketch & Photoshop
+        
+      - name: Policy writing and analysis
         level: 80%
         
       - name: Financial Analysis and Valuation
         level: 80%
+        
+      - name: Javascript & jQuery
+        level: 80%
+
+      - name: PHP/MySql, HTML5 & CSS
+        level: 80%
+
+      - name: Sketch & Photoshop
+        level: 80%
+
+      - name: Python 
+        level: 60%
+
 
 footer: >
    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Kaushik Ghosh</a> 
