@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kaushik Ghosh
-    tagline: Author || Public Policy Analyst and Researcher || Subject Expert of Economics, Mathematics and Finance on various online platforms || Gazetted Officer, Ministry of Defence, Govt of India 
+    tagline: Author || Public Policy Analyst and Researcher || Subject Expert of Economics, Mathematics, Statistics and Finance on various online platforms || Gazetted Officer, Ministry of Defence, Govt of India 
     avatar: KaushikGithub.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -62,11 +62,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+        Kaushik hails from Uttarpara, Hooghly; a small town in the state of West Bengal.
         Kaushik has more than eight years experience in Defence Production Sector.
         He has worked with one of the leading arms and defence equipment manufacturers of the globe.
         He has worked in cross-functional areas of Governance, IT, Finance, Procurement and HR.
         Currently his area of work is Public Policy and Public Finance. He has several Economics, Policy and Finance related papers published on international journals.
-        Officer at DDP, Ministry of Defence, Govt. of India. He is a Certified Peer Reviewer and also a subject expert of Economics, Mathematics and Finance on various online platforms. 
+        Officer at DDP, Ministry of Defence, Govt. of India. He is a subject expert of Economics, Mathematics and Finance on various online platforms.
+        Kaushik has keen interest in Cyber-risk quantification.
 education:
     - degree: Executive MBA
       university: Indian Institute of Technology Kharagpur (IITKGP), India
