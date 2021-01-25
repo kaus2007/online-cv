@@ -102,6 +102,16 @@ education:
         - Bachelor of Engineering, Information Technology from erstwhile Indian Institute of Information Technology, Calcutta
         - A dissertation of information security management using cryptograhic and steganographic technique.
 experiences:
+    - role: Project Trainee
+      time: April, 2009 - Dec, 2009
+      company: Centrex Technologies, Kolkata
+      details: | PHP/MySql Developer on WAMP Server
+    
+    - role: Assistant Systems Engineer 
+      time: April, 2011 - September, 2011
+      company: Tata Consultancy Services Ltd.
+      details: | Project Trainee on Java       
+      
     - role: Chargeman/IT
       time: 2011 - 2017
       company: Ordnance Factory Board, Ministry of Defence, Govt of India
