@@ -133,7 +133,7 @@ experiences:
     - role: Professional Member
       time: July 2020 - till date
       company: acm.org
-      details: |
+      details: | Member number 8912100
         
         
 projects: 
@@ -161,9 +161,10 @@ publications:
         conference: 
         
       - title: "Review of Company Law on Merger and Acquisition in India Using SCP Paradigm"
-        link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545442
+        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545442"
         authors: Kaushik Ghosh, Mayukh Mukhopadhyay
-        conference: 
+        conference: Cited Paper at 
+        link: "https://www.researchgate.net/publication/340171749_Review_of_Company_Law_on_Merger_and_Acquisition_in_India_Using_SCP_Paradigm/citations"
 
       - title: "A Review Paper on India’s Macroeconomic Focus on Export Versus Investment Led Growth Strategies – Issues and Implications"
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3567181"
@@ -174,7 +175,22 @@ publications:
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630075"
         authors: Kaushik Ghosh
         conference: 
-
+        
+      - title: "SoftBank Group: A Global Juggernaut or Japanese Jenga" 
+        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545035" 
+        authors: Mayukh Mukhopadhyay, Kaushik Ghosh, Abhisita Chakraborty, Arnab Sinha 
+        conference: 
+        
+      - title: "Disanalogical Discourse on Trolley Problem for Autonomous Vehicles" 
+        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3563378" 
+        authors: Mayukh Mukhopadhyay, Kaushik Ghosh, Abhisita Chakraborty, Malay Goswami
+        conference:
+ 
+      - title: "A Case Study on Tata Group's Plans to Acquire Stake in GMR Airports Limited (GAL) - in Pursuit of Synergy Gain" 
+        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3577861" 
+        authors: Kaushik Ghosh
+        conference:
+ 
 skills:
     title: Skills &amp; Proficiency
 
