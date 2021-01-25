@@ -72,6 +72,9 @@ sidebar:
         
       - item: Cyber Security Foundation Professional Certificate - CSFPC™ by CertiProf 
         link: "https://drive.google.com/file/d/1GzKeWb49aCA-459Fcv795KdWxYWvNkaH/view?usp=sharing"
+        
+      - item: Professional membership of Association of Computing Machinery(ACM). 
+        link: "https://drive.google.com/file/d/1Z1ApxIu_qu8IBClC1ZiiJnbEpxuLyYEC/view?usp=sharing" 
                     
 career-profile:
     title: Career Profile
@@ -83,10 +86,8 @@ career-profile:
         Currently his area of work is Public Policy, Public Finance, Cyber Security and Cybereconomics. He has several Economics, Policy Information Technology and Finance related papers published on international journals.
         Officer at DDP, Ministry of Defence, Govt. of India. He is a subject expert of Economics, Mathematics and Finance on various online platforms.
         Kaushik has keen interest in Cyber-risk quantification and Cybereconomics.
-        
-     - item: Kaushik holds the membership of ACM. 
-     link: "https://drive.google.com/file/d/1Z1ApxIu_qu8IBClC1ZiiJnbEpxuLyYEC/view?usp=sharing" 
-     
+       
+         
 education:
     - degree: Executive MBA
       university: Indian Institute of Technology Kharagpur (IITKGP), India
@@ -129,6 +130,12 @@ experiences:
       details: |
         For Economics, Mathematics and Finance
         
+    - role: Professional Member
+      time: July 2020 - till date
+      company: acm.org
+      details: |
+        
+        
 projects: 
     title: Projects
     intro: > 
@@ -146,7 +153,7 @@ publications:
       Kaushik's portfolio of publications is very diversified, starting from papers on Economics, Business Law to Cyber Security. 
       Many of his papers have been published on international journals, including journals published by highly reputed international Business Schools. 
       
-        
+       
     papers:
       - title: "Kaushik's author page link" 
         link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4021364" 
