@@ -164,7 +164,7 @@ publications:
       - intro: |
             Kaushik's portfolio of publications is very diversified, starting from papers on Economics, Business Law to Cyber Security. Many of his papers have been published on international journals, including journals published by highly reputed international Business Schools. 
            
-    papers:
+papers:
       - title: "Kaushik's author page link" 
         link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4021364" 
         authors: 
@@ -209,20 +209,20 @@ publications:
         authors: Kaushik Ghosh and Mayukh Mukhopadhyay
         conference:
         
-     - title: "Risk and Opportunity of Telemedicine in Healthcare Management" 
+      - title: "Risk and Opportunity of Telemedicine in Healthcare Management" 
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635122" 
         authors: Mayukh Mukhopadhyay and Kaushik Ghosh  
         conference:
         
-     - title: "A Curious Case of Cryptokick" 
+      - title: "A Curious Case of Cryptokick" 
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3656147" 
         authors: Mayukh Mukhopadhyay and Kaushik Ghosh  
         conference:
         
-     -  title: "Panama Papers: How Data Science Fought Corruption " 
-        link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3644821" 
-        authors: Mayukh Mukhopadhyay and Kaushik Ghosh  
-        conference:
+      -  title: "Panama Papers: How Data Science Fought Corruption " 
+         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3644821" 
+         authors: Mayukh Mukhopadhyay and Kaushik Ghosh  
+         conference:
         
 skills:
     title: Skills &amp; Proficiency
