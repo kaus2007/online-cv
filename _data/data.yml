@@ -105,15 +105,17 @@ experiences:
     - role: Project Trainee
       time: April, 2009 - Dec, 2009
       company: Centrex Technologies, Kolkata
-      details: | PHP/MySql Developer on WAMP Server
+      details: | 
+      PHP/MySql Developer on WAMP Server
     
     - role: Assistant Systems Engineer 
       time: April, 2011 - September, 2011
       company: Tata Consultancy Services Ltd.
-      details: | Project Trainee on Java       
+      details: | 
+      Project Trainee on Java       
       
     - role: Chargeman/IT
-      time: 2011 - 2017
+      time: October, 2011 - April, 2017
       company: Ordnance Factory Board, Ministry of Defence, Govt of India
       details: |
         Job particulars
@@ -125,7 +127,7 @@ experiences:
         6. OFB COMNET (intranet of DoDP,MoD) System and LAN Administration
         7. Promoted through Limited Departmental Competitive Examination held in 2016
     - role: Junior Works Manager
-      time: 2017 - till date
+      time: April, 2017 - till date
       company: Ordnance Factory Board, Ministry of Defence, Govt of India
       details: |
         Job particulars
@@ -141,9 +143,10 @@ experiences:
         For Economics, Mathematics and Finance
         
     - role: Professional Member
-      time: July 2020 - till date
+      time: July, 2020 - till date
       company: acm.org
-      details: | Member number 8912100
+      details: | 
+      Member number 8912100
         
         
 projects: 
