@@ -24,7 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    memberships: drive.google.com/file/d/1Z1ApxIu_qu8IBClC1ZiiJnbEpxuLyYEC/view?usp=sharing
+    
 
     languages:
       - idiom: English
@@ -42,6 +42,9 @@ sidebar:
 
       - item: Technical Review
         link: "https://publons.com/researcher/3668343/kaushik-ghosh/"
+        
+      - item: Membership
+        link: https://drive.google.com/file/d/1Z1ApxIu_qu8IBClC1ZiiJnbEpxuLyYEC/view?usp=sharing
         
        
         
@@ -253,9 +256,11 @@ skills:
       - name: Cyber-incident response and event analysis
         level: 70%
 
-      - name:  Research writing 
+      - name:  Research writing and analytics
         level: 60%
-
+        
+      - name:  Cloud Computing 
+        level: 60%
 
 footer: >
    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Kaushik Ghosh</a> 
