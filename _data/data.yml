@@ -30,7 +30,7 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Bengali
+      - idiom: Bangla/Bengali
         level: Native
 
     interests:
@@ -46,7 +46,7 @@ sidebar:
       - item: Technical Review
         link: "https://publons.com/researcher/3668343/kaushik-ghosh/"
         
-      - item: Membership
+      - item: Professional Membership
         link: "https://drive.google.com/file/d/1Z1ApxIu_qu8IBClC1ZiiJnbEpxuLyYEC/view?usp=sharing"
         
        
@@ -87,6 +87,15 @@ sidebar:
         
       - item: Professional membership of Association of Computing Machinery(ACM). 
         link: "https://drive.google.com/file/d/1Z1ApxIu_qu8IBClC1ZiiJnbEpxuLyYEC/view?usp=sharing"  
+ 
+      - item:   Alibaba Cloud: Securing your Cloud Infrastructure. 
+        link:  "https://drive.google.com/file/d/1t5fNGJsM2CYB-58rgqvW0jjHvlpIYAoi/view?usp=sharing"
+        
+      - item:   Alibaba Cloud: Fully Managed Alibaba Cloud database.  
+        link:  "https://drive.google.com/file/d/1pts0Uo3M4vGHMmcVm1XY337MF1RVQjqV/view?usp=sharing"
+        
+      - item:   Alibaba Cloud: Content Delivery Network.
+        link:  "https://drive.google.com/file/d/1I86EWzrmeckANuq10Fk3IpgyAQvJ8Tpd/view?usp=sharing"
 
 career-profile:
     title: Career Profile
