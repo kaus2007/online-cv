@@ -24,6 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    memberships: drive.google.com/file/d/1Z1ApxIu_qu8IBClC1ZiiJnbEpxuLyYEC/view?usp=sharing
 
     languages:
       - idiom: English
@@ -41,6 +42,8 @@ sidebar:
 
       - item: Technical Review
         link: "https://publons.com/researcher/3668343/kaushik-ghosh/"
+        
+       
         
     certificates:
       - item: Public Financial Management offered by IMF
@@ -142,14 +145,14 @@ experiences:
       time: 2020 - till date
       company: chegg.com
       details: |
-        For Economics, Mathematics and Finance
+        For Finance
         
     - role: Professional Member
       time: July, 2020 - till date
       company: Association for Computing Machinery (acm.org)
       details: | 
         - Member number 8912100
-        - link: "https://drive.google.com/file/d/1Z1ApxIu_qu8IBClC1ZiiJnbEpxuLyYEC/view?usp=sharing" 
+         
         
 projects: 
     title: Projects
