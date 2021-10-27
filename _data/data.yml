@@ -203,12 +203,22 @@ projects:
 publications:
     title: Publications
     intro: |
-      Kaushik's portfolio of publications is very diversified, starting from papers on Economics, Business Law to Cyber Security. Many of his papers have been published on international journals, including journals published by highly reputed international Business Schools. 
+      Kaushik's portfolio of publications is very diversified, papers eencompass areas of Computation, Mathematics, Economics, Business Administration, Finance, Law to Cyber Security. 
+      Many of his papers have been published on international journals, including journals published by highly reputed international Business Schools. 
+      One of his papers has been published by Journal of Insurance and Financial Management. 
+      His authored a paper on computational mathematics wherein he has postulated some theories on computational geometry is a part of
+      NASA Astrophysics Data System managed by the Harvard–Smithsonian Center for Astrophysics. 
+
     papers:
-      - title: "Kaushik's author page link" 
-        link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4021364" 
+      - title: "Kaushik's author (academic & research) page link" 
+        link: "https://orcid.org/my-orcid?orcid=0000-0002-4839-8447" 
         authors: 
         conference: 
+        
+      - title: "Demystifying Algorithmic Complexities and Geometric Review of the 'h'-Index"
+        link: "https://ui.adsabs.harvard.edu/abs/2021arXiv210915123G/abstract"
+        authors: Kaushik Ghosh, Mayukh Mukhopadhyay
+        conference: A part of NASA Astrophysics Data System managed by the Harvard–Smithsonian Center for Astrophysics.
         
       - title: "Review of Company Law on Merger and Acquisition in India Using SCP Paradigm"
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545442"
