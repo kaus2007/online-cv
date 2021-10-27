@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kaushik Ghosh
-    tagline: Author || Public Policy Analyst || Independent researcher || Subject matter expert of Finance on e-tutorial || Cybersecurity and Cyber-risk manager || Gazetted Officer, Ministry of Defence, Govt of India 
+    tagline: Author || Independent researcher || Subject matter expert of Finance on e-tutorial || PhD Canidate || Cybersecurity and Cyber-risk manager || Gazetted Officer, Ministry of Defence, Govt of India 
     avatar: KaushikGithub.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -34,6 +34,10 @@ sidebar:
         level: Native
 
     interests:
+    
+      - item: Author
+        link: "https://fsebcbook.github.io/"
+    
       - item: Technical/Research Writing
         link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4021364"
 
@@ -49,7 +53,7 @@ sidebar:
       - item: Professional Membership
         link: "https://drive.google.com/file/d/1Z1ApxIu_qu8IBClC1ZiiJnbEpxuLyYEC/view?usp=sharing"
         
-       
+
         
     certificates:
       - item: Public Financial Management offered by IMF
@@ -100,10 +104,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Kaushik hails from Uttarpara, Hooghly; a small town in the state of West Bengal.
+        Kaushik hails from Uttarpara, Hooghly; a small town in the state of West Bengal (India).
         Kaushik has nearly ten years’ experience in Defence Production Sector. He has worked with one of the leading arms and defence equipment manufacturers of the globe. 
-        Kaushik has worked as Junior Works Manager at The Ordnance Factory Board, Ministry of Defence, Government of India. 
-        He has worked in the cross-functional areas of Governance, IT, Finance, Procurement and HR. 
+        Kaushik has worked as Junior Works Manager at The Ordnance Factory Board, Ministry of Defence, Government of India & Directorate of Ordnance (Coordination & Services), Ministry of Defence, Government of India
+        Kaushik is a Doctoral Fellow at the Indian Institute of Foreign Trade (IIFT); one of the premier Business Schools in India as well as in Asia. 
+        He has worked in the cross-functional areas of Governance, IT, Cyber Seecurity, Finance and Procurement.
+        Kaushik is the author of the book "Five Shades of Emerging Business Cases" by Eliva Press, an independent publishing house established to publish and disseminate scientific works around the world. 
         Kaushik is a Bachelor of Engineering in Information Technology from School of Information Technology, West Bengal University of Technology which was formerly known as Indian Institute of Information Technology Calcutta 
         and a Master of Business Administration from Vinod Gupta School of Management (VGSoM) Indian Institute of Technology (IIT) Kharagpur; 
         one of the premier Business Schools in India as well as in Asia. 
