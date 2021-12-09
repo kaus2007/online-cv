@@ -123,6 +123,7 @@ career-profile:
         He has been conferred the status of top 10% of Authors on SSRN by total new downloads on several occasions by Social Science Research Network (SSRN).
         He is a Subject Expert of Finance in Chegg.com (an online education portal). 
         Kaushik is an active Professional Member of Association for Computing Machinery(ACM). 
+        Kaushik is an author, he has a published book "Five Shades of Emerging Business Cases: A collection of 15 case studies on emerging topics for management graduates" available on Amazon.
         Kaushik has expertise in multiple coding languages and a code contributor at many coding platforms.
         Kaushik has keen interest in Cybersecurity, Cyber-risk quantification, Cloud computing, Data Science, Macroeconomics, Mathematical/Statistical/Quantitative Modelling, Public Policy and Cyber-economics. 
 education:
@@ -200,6 +201,11 @@ experiences:
       details: | 
         - Member number 8912100
          
+    - role: Author
+      time: 
+      company: Eliva Press (Publisher)
+      details: | 
+        - Five Shades of Emerging Business Cases: A collection of 15 case studies on emerging topics for management graduates
         
 projects: 
     title: Projects
