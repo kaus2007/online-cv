@@ -134,6 +134,11 @@ career-profile:
         Kaushik has expertise in multiple coding languages and a code contributor at many coding platforms.
         Kaushik has keen interest in Cybersecurity, Cyber-risk quantification, Cloud computing, Data Science, Macroeconomics, Mathematical/Statistical/Quantitative Modelling, Public Policy and Cyber-economics. 
 education:
+    - degree: Ph. D. in Business Administration (Management) 
+      university: Indian Institute of Foreign Trade, India
+      time: 2021 - onwards
+      details: |
+        - In the area of IT Innovation & Technology Management.
     - degree: Master of Busineess Administration - MBA (General)
       university: Indian Institute of Technology Kharagpur (IITKGP), India
       time: 2018 - 2021
@@ -271,7 +276,7 @@ publications:
       - title: Identification and Quantification of Cybersecurity Risk by Likelihood-Severity, Incident-Response and Organizational Asset Valuation Framework
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630075"
         authors: Kaushik Ghosh
-        conference: 
+        conference: Citaion(s) 1
         
       - title: "SoftBank Group: A Global Juggernaut or Japanese Jenga" 
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545035" 
@@ -296,7 +301,7 @@ publications:
       - title: "Risk and Opportunity of Telemedicine in Healthcare Management" 
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635122" 
         authors: Mayukh Mukhopadhyay and Kaushik Ghosh  
-        conference: Citaion(s) 1
+        conference: Citaion(s) 2
         
       - title: "A Curious Case of Cryptokick" 
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3656147" 
