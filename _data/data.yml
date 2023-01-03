@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kaushik Ghosh
-    tagline: Author || Independent researcher || Subject matter expert of Finance on e-tutorial || PhD Canidate || Cybersecurity and Cyber-risk manager || Gazetted Officer, Ministry of Defence, Govt of India 
+    tagline: Author || Independent researcher || Peer reviewer || Subject matter expert of Finance on e-tutorial || PhD Canidate || Cybersecurity and Cyber-risk manager || Gazetted Officer, Ministry of Defence, Govt of India 
     avatar: KaushikGithub.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,6 +40,9 @@ sidebar:
         
       - item: Research Scholar
         link: "https://scholar.google.com/citations?hl=en&authuser=1&user=k_4r9vQAAAAJ"
+   
+      - item: Peer Reviewer
+        link: "https://publons.com/wos-op/review/author/4C3WEwVZ/"
     
       - item: Technical/Research Writing
         link: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4021364"
@@ -317,6 +320,7 @@ publications:
          link: "https://ui.adsabs.harvard.edu/abs/2021arXiv211203172M/abstract" 
          authors: Mayukh Mukhopadhyay and Kaushik Ghosh  
          conference: Five Shades of Emerging Business Cases, Chapter 3, Eliva Press, Moldova, EU, pp. 26-38, 2021, ISBN 9781636483955; doi:10.5281/zenodo.5654779
+         conference: Citaion(s) 7
          
       -  title: "Demystifying Algorithmic Complexities and Geometric Review of the 'h'-Index" 
          link: "https://ui.adsabs.harvard.edu/abs/2021arXiv210915123G/abstract" 
@@ -349,7 +353,7 @@ skills:
       - name:  Research writing and analytics
         level: 60%
         
-      - name:  Cloud Computing 
+      - name:  Naural Language Processing
         level: 70%
 
 footer: >
