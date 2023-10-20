@@ -335,10 +335,25 @@ publications:
          authors: Kaushik Ghosh and Mayukh Mukhopadhyay   
          conference: Five Shades of Emerging Business Cases, Eliva Press, Moldova, EU, Chapter 6, pp. 91-110, 2021, ISBN 9781636483955; doi:10.5281/zenodo.5654779
 
-      - title: "Kaushik's author (academic & research) page link" 
+      - title: "Kaushik's ORCID (academic, review & research) page link" 
         link: "https://orcid.org/my-orcid?orcid=0000-0002-4839-8447" 
         authors: 
         conference: 
+
+      - title: "Kaushik's Google Scholar  page link" 
+        link: "https://scholar.google.com/citations?user=k_4r9vQAAAAJ&hl=en&authuser=2" 
+        authors: 
+        conference:
+
+      - title: "Kaushik's ResearchGate  page link" 
+        link: "https://www.researchgate.net/profile/Kaushik-Ghosh-21" 
+        authors: 
+        conference:         
+
+      - title: "Kaushik's Publons (reviewer)  page link" 
+        link: "https://publons.com/wos-op/review/author/4C3WEwVZ/" 
+        authors: 
+        conference:    
         
 skills:
     title: Skills &amp; Proficiency
