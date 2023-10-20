@@ -259,10 +259,15 @@ publications:
       He has been conferred the status of top 10% of Authors on SSRN by total new downloads on several occasions by Social Science Research Network (SSRN).
 
     papers:
-      - title: "Kaushik's author (academic & research) page link" 
-        link: "https://orcid.org/my-orcid?orcid=0000-0002-4839-8447" 
-        authors: 
-        conference: 
+      - title: "A systematic literature review and analysis of national level policies on virtual digital assets and distributed ledger technology" 
+        link: "https://drive.google.com/file/d/1oM1Ei3ou9cV4IdJuBYK4m5oEkgDjF6Cr/view?usp=sharing" 
+        authors: Kaushik Ghosh, P. K. Das
+        conference: APPSCICON - 22, An interdisciplinary national conference, MAKAUTWB, 27- 28 May 2022
+        
+      - title: "ABB India Corporate Restructuring Process Through Slump Sale" 
+        link: "https://www.journal-of-insurance-and-financial-management.com/index.php/JIFM/article/view/194" 
+        authors: Kaushik Ghosh, Mayukh Mukhopadhyay
+        conference: Journal of Insurance and Financial Management, Vol 4, No 4 (2021) 
         
       - title: "Demystifying Algorithmic Complexities and Geometric Review of the 'h'-Index"
         link: "https://ui.adsabs.harvard.edu/abs/2021arXiv210915123G/abstract"
@@ -272,7 +277,7 @@ publications:
       - title: "Review of Company Law on Merger and Acquisition in India Using SCP Paradigm"
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545442"
         authors: Kaushik Ghosh and Mayukh Mukhopadhyay
-        conference: Citaion(s) 1     
+        conference:      
                 
       - title: "A Review Paper on India’s Macroeconomic Focus on Export Versus Investment Led Growth Strategies – Issues and Implications"
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3567181"
@@ -307,12 +312,12 @@ publications:
       - title: "Risk and Opportunity of Telemedicine in Healthcare Management" 
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3635122" 
         authors: Mayukh Mukhopadhyay and Kaushik Ghosh  
-        conference: Citaion(s) 2
+        conference: 
         
       - title: "A Curious Case of Cryptokick" 
         link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3656147" 
         authors: Mayukh Mukhopadhyay and Kaushik Ghosh  
-        conference: Citaion(s) 3
+        conference: 
         
       -  title: "Panama Papers: How Data Science Fought Corruption" 
          link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3644821" 
@@ -323,12 +328,17 @@ publications:
          link: "https://ui.adsabs.harvard.edu/abs/2021arXiv211203172M/abstract" 
          authors: Mayukh Mukhopadhyay and Kaushik Ghosh  
          conference: Five Shades of Emerging Business Cases, Chapter 3, Eliva Press, Moldova, EU, pp. 26-38, 2021, ISBN 9781636483955; doi:10.5281/zenodo.5654779
-         conference: Citaion(s) 7
+         conference: 
          
       -  title: "Demystifying Algorithmic Complexities and Geometric Review of the 'h'-Index" 
          link: "https://ui.adsabs.harvard.edu/abs/2021arXiv210915123G/abstract" 
          authors: Kaushik Ghosh and Mayukh Mukhopadhyay   
          conference: Five Shades of Emerging Business Cases, Eliva Press, Moldova, EU, Chapter 6, pp. 91-110, 2021, ISBN 9781636483955; doi:10.5281/zenodo.5654779
+
+      - title: "Kaushik's author (academic & research) page link" 
+        link: "https://orcid.org/my-orcid?orcid=0000-0002-4839-8447" 
+        authors: 
+        conference: 
         
 skills:
     title: Skills &amp; Proficiency
