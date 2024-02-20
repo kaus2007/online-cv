@@ -356,23 +356,23 @@ publications:
         conference:    
         
 skills:
-    title: Skills &amp; Proficiency
+    title: Research Interest
 
     toolset:      
             
-      - name: MS Office
+      - name: CBDC & Digital Currency
+        level: 100%
+        
+      - name: DLT & Blockchain
+        level: 100%
+        
+      - name: Artificial Intelligence & Machine Learning
         level: 80%
         
-      - name: Policy writing and analysis
+      - name: Cybersecurity
         level: 80%
-        
-      - name: Financial Analysis and Valuation
-        level: 60%
-        
-      - name: Javascript & jQuery
-        level: 60%
 
-      - name: PHP/MySql, HTML5 & CSS
+      - name: IT Innovation
         level: 60%
 
       - name: Cyber-incident response and event analysis
