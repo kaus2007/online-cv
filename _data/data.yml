@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kaushik Ghosh
-    tagline: Author || Independent researcher || Peer reviewer || Subject matter expert of Finance on e-tutorial || PhD Canidate || Cybersecurity and Cyber-risk manager || Gazetted Officer, Ministry of Defence, Govt of India 
+    tagline: Author || Independent researcher || Peer reviewer || Subject matter expert of Finance on e-tutorial || Assistant Professor || PhD Canidate || Cybersecurity and Cyber-risk manager || Gazetted Officer, Ministry of Defence, Govt of India 
     avatar: KaushikGithub.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -268,10 +268,7 @@ publications:
       - title: "Central Bank Digital Currency: Policy Implications through Polarity and Sentiment Analysis" 
         link: "https://drive.google.com/file/d/1ryJlR4shYsSwB-p8TPigZrTaFDtLUVs1/view?usp=sharing" 
         authors: Kaushik Ghosh, P. K. Das
-        conference: Emerging Applications of Information Technology (EAIT), 
-        2024 held on 11-13/01/2024 organised by CSI, Kolkata, IEEE, Comsoc, and 
-        Springer, Techno Main, Salt Lake and held at Techno India University, 
-        Kolkata. Conference theme - Machine Learning for Social Transformation
+        conference: Emerging Applications of Information Technology (EAIT), 2024 held on 11-13/01/2024 organised by CSI, Kolkata, IEEE, Comsoc, and Springer, Techno Main, Salt Lake and held at Techno India University, Kolkata. Conference theme - Machine Learning for Social Transformation.
     
       - title: "A systematic literature review and analysis of national level policies on virtual digital assets and distributed ledger technology" 
         link: "https://drive.google.com/file/d/1oM1Ei3ou9cV4IdJuBYK4m5oEkgDjF6Cr/view?usp=sharing" 
