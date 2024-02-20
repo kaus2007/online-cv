@@ -220,7 +220,7 @@ experiences:
       time: 2020 - 2022
       company: chegg.com
       details: |
-        For Finance
+        - Finance
         
     - role: Professional Member
       time: July, 2020 - till date
@@ -260,11 +260,19 @@ publications:
       Kaushik's portfolio of publications is very diversified, papers eencompass areas of Computation, Mathematics, Economics, Business Administration, Finance, Law to Cyber Security. 
       Many of his papers have been published on international journals, including journals published by highly reputed international Business Schools. 
       One of his papers has been published by Journal of Insurance and Financial Management. 
-      His authored a paper on computational mathematics wherein he has postulated some theories on computational geometry is a part of
+      He authored a paper on computational mathematics wherein he has postulated some theories on computational geometry is a part of
       NASA Astrophysics Data System managed by the Harvard–Smithsonian Center for Astrophysics. 
       He has been conferred the status of top 10% of Authors on SSRN by total new downloads on several occasions by Social Science Research Network (SSRN).
 
     papers:
+      - title: "Central Bank Digital Currency: Policy Implications through Polarity and Sentiment Analysis" 
+        link: "https://drive.google.com/file/d/1ryJlR4shYsSwB-p8TPigZrTaFDtLUVs1/view?usp=sharing" 
+        authors: Kaushik Ghosh, P. K. Das
+        conference: Emerging Applications of Information Technology (EAIT), 
+        2024 held on 11-13/01/2024 organised by CSI, Kolkata, IEEE, Comsoc, and 
+        Springer, Techno Main, Salt Lake and held at Techno India University, 
+        Kolkata. Conference theme - Machine Learning for Social Transformation
+    
       - title: "A systematic literature review and analysis of national level policies on virtual digital assets and distributed ledger technology" 
         link: "https://drive.google.com/file/d/1oM1Ei3ou9cV4IdJuBYK4m5oEkgDjF6Cr/view?usp=sharing" 
         authors: Kaushik Ghosh, P. K. Das
