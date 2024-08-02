@@ -124,6 +124,7 @@ career-profile:
         He has worked in the cross-functional areas of Governance, IT, Cyber Seecurity, Finance and Procurement.
         Kaushik is the author of the book "Five Shades of Emerging Business Cases" by Eliva Press, an independent publishing house established to publish and disseminate scientific works around the world. 
         He has several Business Economics, Policy, Information Technology and Finance related papers published on various international journals.
+        This includes a publication in the International Journal of Law and Management by Emerald publishing (ABDC and Scopus indexed journal; Scopus Q1, ABDC-C).
         Many of his papers have been published on international journals, including journals published by highly reputed international Business Schools. 
         Kaushik has an array of certifications in multiple domains starting from Technology to Business. 
         He has been conferred the status of top 10% of Authors on SSRN by total new downloads on several occasions by Social Science Research Network (SSRN).
@@ -228,11 +229,17 @@ experiences:
       details: | 
         - Member number 8912100
          
-    - role: Author
-      time: 
+    - role: Author (Book)
+      time: November, 2021
       company: Eliva Press (Publisher)
       details: | 
         - Five Shades of Emerging Business Cases: A collection of 15 case studies on emerging topics for management graduates
+        
+     - role: Author (Journal)
+      time: July, 2024
+      company: International Journal of Law and Management, July 2024, Emerald (Publisher)
+      details: | 
+        - Central bank digital currencies – a bibliometric analysis on research themes in pursuit of research trends  
         
     - role: Pro-bono engagements (peer-reviewer)
       time: 2022 onwards
@@ -266,6 +273,11 @@ publications:
 
     papers:
     
+      - title: "Central bank digital currencies – a bibliometric analysis on research themes in pursuit of research trends" 
+        link: "https://www.emerald.com/insight/content/doi/10.1108/IJLMA-11-2023-0252/full/html" 
+        authors: Kaushik Ghosh, P. K. Das
+        conference: International Journal of Law and Management (ABDC - C, Scopus Q1)    
+      
       - title: "Central Bank Digital Currency: Policy Implications through Polarity and Sentiment Analysis" 
         link: "https://drive.google.com/file/d/1ryJlR4shYsSwB-p8TPigZrTaFDtLUVs1/view?usp=sharing" 
         authors: Kaushik Ghosh, P. K. Das
