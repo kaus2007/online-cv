@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kaushik Ghosh
-    tagline: Author || Independent researcher || Peer reviewer || Subject matter expert of Finance on e-tutorial || Assistant Professor || PhD Canidate || Cybersecurity and Cyber-risk manager || Gazetted Officer, Ministry of Defence, Govt of India 
+    tagline: Author || Independent researcher || Peer reviewer || Subject matter expert of Finance on e-tutorial || Assistant Professor || PhD Canidate || Oracle Cloud Infrastructure Generative AI Professional || Cybersecurity and Cyber-risk manager || Gazetted Officer, Ministry of Defence, Govt of India 
     avatar: KaushikGithub.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -62,6 +62,9 @@ sidebar:
 
         
     certificates:
+      - item: 1Z0-1127-24: Oracle Cloud Infrastructure 2024 Generative AI Professional
+        link: "https://drive.google.com/file/d/1Wtq5Q5fZATorbzDObODwo4rQG5nsCyAZ/view?usp=sharing"
+        
       - item: Public Financial Management offered by IMF
         link: "https://courses.edx.org/certificates/48bc66cd113a432db60fc2931bb12038"
 
