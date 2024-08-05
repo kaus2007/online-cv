@@ -1,17 +1,18 @@
+#Update all the sections by editing the data.yml file inside _data folder.
+
 # Site Settings
 title: Kaushik Ghosh web Résumé
 url: 'https://kaushik.github.io'
-baseurl: '/online-cv' # Change it according to your repository name
+baseurl: '/online-cv' #change it according to your repository name
 description: Curriculum Vitae of Kaushik Ghosh
-theme: minima # Specify your theme here if not minima
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: berry # blue turquoise green berry orange ceramic
-chrome_mobile_color: '' # Use hex colors (ex: #1976d2) or leave empty if you don't want a color for chrome mobile search bar
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
 analytics: UA-83979019-1
 
-# Markdown Processor
-markdown: kramdown
+
 
 # Sass/SCSS
 sass:
@@ -20,18 +21,14 @@ sass:
 
 # Build settings
 compress-site: yes
+
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
-  envs: development
+    envs: development
 
 # Development Settings
 port: 4000
 host: 0.0.0.0
 safe: false
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
