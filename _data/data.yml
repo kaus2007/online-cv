@@ -35,8 +35,11 @@ sidebar:
 
     interests:
     
-      - item: Author
+      - item: Author - FSEBC Book
         link: "https://fsebcbook.github.io/"
+
+      - item: Author - ABDC and Scopus indexed Scholarly Paper on CBDC
+        link: "https://www.emerald.com/insight/content/doi/10.1108/IJLMA-11-2023-0252/full/html/"        
         
       - item: Research Scholar
         link: "https://scholar.google.com/citations?hl=en&authuser=1&user=k_4r9vQAAAAJ"
