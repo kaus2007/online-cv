@@ -238,7 +238,7 @@ experiences:
       details: | 
         - Five Shades of Emerging Business Cases: A collection of 15 case studies on emerging topics for management graduates
         
-     - role: Author (Journal)
+    - role: Author (Journal)
       time: July, 2024
       company: International Journal of Law and Management, July 2024, Emerald (Publisher)
       details: | 
@@ -355,7 +355,7 @@ publications:
          link: "https://ui.adsabs.harvard.edu/abs/2021arXiv211203172M/abstract" 
          authors: Mayukh Mukhopadhyay and Kaushik Ghosh  
          conference: Five Shades of Emerging Business Cases, Chapter 3, Eliva Press, Moldova, EU, pp. 26-38, 2021, ISBN 9781636483955; doi:10.5281/zenodo.5654779
-         conference: 
+         
          
       -  title: "Demystifying Algorithmic Complexities and Geometric Review of the 'h'-Index" 
          link: "https://ui.adsabs.harvard.edu/abs/2021arXiv210915123G/abstract" 
