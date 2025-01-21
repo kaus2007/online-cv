@@ -284,8 +284,9 @@ publications:
     intro: |
       Kaushik's portfolio of publications is very diversified, papers eencompass areas of Computation, Mathematics, Economics, Business Administration, Finance, Law to Cyber Security. 
       Many of his papers have been published on international journals, including journals published by highly reputed international Business Schools. 
-      One of his papers has been published by Journal of Insurance and Financial Management. 
-      He authored a paper on computational mathematics wherein he has postulated some theories on computational geometry is a part of
+      One of his papers has been published by International Journal of Law and Management (Scopus Q1, ABDC C) another one in Journal of Insurance and Financial Management. 
+      He authored a book chapter on Springer Lecture Notes in Network and System Series (Scopus indexed)
+      He also wrote a paper on computational mathematics wherein he has postulated some theories on computational geometry is a part of
       NASA Astrophysics Data System managed by the Harvard–Smithsonian Center for Astrophysics. 
       He has been conferred the status of top 10% of Authors on SSRN by total new downloads on several occasions by Social Science Research Network (SSRN).
 
@@ -295,16 +296,26 @@ publications:
         link: "https://www.emerald.com/insight/content/doi/10.1108/IJLMA-11-2023-0252/full/html" 
         authors: Kaushik Ghosh, P. K. Das
         conference: International Journal of Law and Management (ABDC - C, Scopus Q1)    
+
+      - title: "Central Bank Digital Currency: Policy Implications through Polarity and Sentiment Analysis" 
+        link: "https://link.springer.com/chapter/10.1007/978-981-97-7532-3_6" 
+        authors: Kaushik Ghosh, P. K. Das
+        conference: Springer Machine Learning for Social Transformation - Emerging Applications of Information Technology (EAIT), 2024.
       
       - title: "Central Bank Digital Currency: Policy Implications through Polarity and Sentiment Analysis" 
         link: "https://drive.google.com/file/d/1ryJlR4shYsSwB-p8TPigZrTaFDtLUVs1/view?usp=sharing" 
         authors: Kaushik Ghosh, P. K. Das
         conference: Emerging Applications of Information Technology (EAIT), 2024 held on 11-13/01/2024 organised by CSI, Kolkata, IEEE, Comsoc, and Springer, Techno Main, Salt Lake and held at Techno India University, Kolkata. Conference theme - Machine Learning for Social Transformation.
     
-      - title: "Unveiling Central Bank Digital Currency Adoption: A Bibliometri and Thematic Analysis of Scholarly Literature" 
+      - title: "Unveiling Central Bank Digital Currency Adoption: A Bibliometric and Thematic Analysis of Scholarly Literature" 
         link: "https://drive.google.com/file/d/1eduKUz4XFBFXYzvbr4eOJcDEbCm8Bl1o/view?usp=sharing" 
         authors: Kaushik Ghosh, P. K. Das
-        conference: Indian Institute of Foreign Trade - Management Doctoral and Researcher’s Colloquium (IIFT MDRC) 2024 held on 27/09/2024 at IIFT Kolkata
+        conference: Indian Institute of Foreign Trade - Management Doctoral and Researcher’s Colloquium (IIFT MDRC) 2024 held on 27/09/2024 at IIFT Kolkata, ISBN 978-81-955703-5-5
+
+      - title: "Thematic Analysis of Central Bank Digital Currency Policies: Insights from AI-Driven Topic Modeling and NLP Techniques" 
+        link: "https://drive.google.com/file/d/1tJztN_9-oiOLwoR_399Q1J8b7u6W0Ry7/view?usp=sharing" 
+        authors: Kaushik Ghosh, P. K. Das
+        conference: Indian Institute of Foreign Trade - Empirical Issues in International Trade & Finance (EIITF), December 12 – 13, 2024 at IIFT Kolkata, ISBN 978-81-955703-6-2
 
       - title: "A systematic literature review and analysis of national level policies on virtual digital assets and distributed ledger technology" 
         link: "https://drive.google.com/file/d/1oM1Ei3ou9cV4IdJuBYK4m5oEkgDjF6Cr/view?usp=sharing" 
