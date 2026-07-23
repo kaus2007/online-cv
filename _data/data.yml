@@ -157,7 +157,7 @@ career-profile:
 
     ### Research and Publications
 
-    Kaushik is the author of the book "Five Shades of Emerging Business Cases" published by Eliva Press, and his research papers have been published in various international journals and book series, including the <a href="https://www.emerald.com/insight/content/doi/10.1108/IJLMA-11-2023-0252/full/html" target="_blank">International Journal of Law and Management</a> by Emerald publishing (ABDC and Scopus indexed journal; Scopus Q1, ABDC-C) and <a href="https://link.springer.com/chapter/10.1007/978-981-97-7532-3_6" target="_blank">Lecture Notes on Networks and Systems</a> (Scopus indexed book series). His papers have been featured in journals published by renowned international business schools. He has been recognized as one of the <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4021364" target="_blank">top 10% of authors on SSRN</a> by total new downloads on multiple occasions.
+    Kaushik is the author of the book "Five Shades of Emerging Business Cases" published by Eliva Press, and his research papers have been published in various international journals and book series, including the <a href="https://www.emerald.com/dprg/article/doi/10.1108/DPRG-11-2025-0439/1346810/Understanding-central-bank-digital-currency" target="_blank">Digital Policy, Regulation and Governance</a> by Emerald publishing (ABDC and Scopus indexed journal; Scopus Q2, ABDC-B, ABS-1, Econlit); <a href="https://www.emerald.com/insight/content/doi/10.1108/IJLMA-11-2023-0252/full/html" target="_blank">International Journal of Law and Management</a> by Emerald publishing (ABDC and Scopus indexed journal; Scopus Q2, ABDC-C) and <a href="https://link.springer.com/chapter/10.1007/978-981-97-7532-3_6" target="_blank">Lecture Notes on Networks and Systems</a> (Scopus indexed book series). His papers have been featured in journals published by renowned international business schools. He has been recognized as one of the <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4021364" target="_blank">top 10% of authors on SSRN</a> by total new downloads on multiple occasions.
 
     ### Certifications, Volunteering activities and Memberships
 
@@ -287,7 +287,13 @@ experiences:
       time: July, 2024
       company: International Journal of Law and Management, July 2024, Emerald (Publisher)
       details: | 
-        - Central bank digital currencies – a bibliometric analysis on research themes in pursuit of research trends  
+        - Central bank digital currencies – a bibliometric analysis on research themes in pursuit of research trends
+        
+    - role: Author (Journal)
+      time: January, 2026
+      company: Digital Policy, Regulation and Governance, January 2026, Emerald (Publisher)
+      details: | 
+        - Understanding central bank digital currency adoption: a bibliometric and AI-driven analysis         
         
     - role: Pro-bono engagements (peer-reviewer)
       time: 2022 onwards
@@ -321,6 +327,11 @@ publications:
       He has been conferred the status of top 10% of Authors on SSRN by total new downloads on several occasions by Social Science Research Network (SSRN).
 
     papers:
+    
+      - title: "Understanding central bank digital currency adoption: a bibliometric and AI-driven analysis" 
+        link: "https://www.emerald.com/dprg/article/doi/10.1108/DPRG-11-2025-0439/1346810/Understanding-central-bank-digital-currency" 
+        authors: Kaushik Ghosh, P. K. Das
+        conference: Digital Policy, Regulation and Governance. (ABDC - B, ABS-1, Scopus Q1, Econlit) 
     
       - title: "Central bank digital currencies – a bibliometric analysis on research themes in pursuit of research trends" 
         link: "https://www.emerald.com/insight/content/doi/10.1108/IJLMA-11-2023-0252/full/html" 
